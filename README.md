@@ -10,7 +10,7 @@ There are 2 ways to start the webserver to run the api:
 
 ### Release version
 
-[Download the pre-release](https://github.com/overbit/arachni-api/releases/tag/v0.9.0) and follow the instructions for the right platform. 
+[Download the pre-release](https://github.com/overbit/arachni-api/releases) and follow the instructions for the right platform. 
 The release version is a selfcontained executable it should not need any additional framework to be installed.
 
 #### Windows 10+ x64
