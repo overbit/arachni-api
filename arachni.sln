@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arachni", "arachni\arachni.csproj", "{1C683D21-10C5-43EA-9B1D-E3B7D0B6169C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arachni.Tests", "arachni.Tests\arachni.Tests.csproj", "{5D645B0A-BA84-47D3-A2E2-C4DF0195BFE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C683D21-10C5-43EA-9B1D-E3B7D0B6169C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C683D21-10C5-43EA-9B1D-E3B7D0B6169C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C683D21-10C5-43EA-9B1D-E3B7D0B6169C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C683D21-10C5-43EA-9B1D-E3B7D0B6169C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D645B0A-BA84-47D3-A2E2-C4DF0195BFE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D645B0A-BA84-47D3-A2E2-C4DF0195BFE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D645B0A-BA84-47D3-A2E2-C4DF0195BFE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D645B0A-BA84-47D3-A2E2-C4DF0195BFE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F856AA7-B389-40C6-8B71-AD8D1464A7B4}
+	EndGlobalSection
+EndGlobal
